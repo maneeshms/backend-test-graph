@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "sequelize": "^6.23.0",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
